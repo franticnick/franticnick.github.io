@@ -1,2 +1,3 @@
-# franticnick.github.io
-Site
+# Nikola Šoljaga
+
+Github: [@franticnick](https://github.com/franticnick)
