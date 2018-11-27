@@ -1,5 +1,4 @@
-# Nikola Šoljaga
-## Entrepreneur, Kotlin / Java / Android developer ##
+# Nikola Šoljaga (Kotlin / Java / Android developer) ##
 
 Github: [@franticnick](https://github.com/franticnick)
 Linkedin: [link](https://www.linkedin.com/in/nsoljaga/)
